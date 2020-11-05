@@ -1,1 +1,3 @@
-# BitVectorJs\n Bit vector written in java script
+# BitVectorJs
+
+Bit vector written in java script
